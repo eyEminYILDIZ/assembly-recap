@@ -46,6 +46,6 @@ alias asm='function _(){ nasm -f elf32 -o program.o program.asm && ld -m elf_i38
 
 Example:
 ```sh
-cd write
+cd 001_write_stdout
 asm
 ```
