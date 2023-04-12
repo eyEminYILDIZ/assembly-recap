@@ -1,6 +1,6 @@
-# Assembly Challenges
+# Assembly Recap
 
-This repository contains assembly challenges.
+This repository contains assembly summaries.
 
 ## X86 Aliases
 
