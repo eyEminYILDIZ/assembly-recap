@@ -59,3 +59,12 @@ asm
 - 002 Read StdIn
 - 003 Even or Odd
 - 004 Change Data via Address
+
+## Pendings
+
+### x64
+
+- 001 Write StdOut
+- 002 Read StdIn
+- 003 Even or Odd
+- 004 Change Data via Address
