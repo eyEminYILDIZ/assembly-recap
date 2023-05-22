@@ -62,9 +62,14 @@ asm
 
 ## Pendings
 
+### x86
+
+- 005 Change Data via Relative Address
+
 ### x64
 
 - 001 Write StdOut
 - 002 Read StdIn
 - 003 Even or Odd
 - 004 Change Data via Address
+- 005 Change Data via Relative Address
