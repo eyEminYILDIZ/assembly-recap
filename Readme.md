@@ -73,3 +73,4 @@ asm
 - 003 Even or Odd
 - 004 Change Data via Address
 - 005 Change Data via Relative Address
+- 006 Jumps
